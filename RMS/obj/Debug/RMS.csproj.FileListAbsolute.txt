@@ -1,0 +1,4 @@
+C:\RMS_Project_With_CRUD\Rentals_Desktop-main\RMS\bin\Debug\RMS.exe.config
+C:\Rentals_Desktop-main\RMS\bin\Debug\RMS.exe.config
+C:\Rentals_Desktop-main\RMS\obj\Debug\RMS.exe
+C:\Rentals_Desktop-main\RMS\obj\Debug\RMS.pdb
